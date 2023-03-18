@@ -781,7 +781,7 @@ Recived a Webhook Request
   },
   [Symbol(kCapture)]: false,
   [Symbol(kHeaders)]: {
-    host: '45.155.76.232:3535',
+    host: '',
     'user-agent': 'GitHub-Hookshot/12dd831',
     'content-length': '7077',
     accept: '*/*',
