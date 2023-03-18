@@ -276,7 +276,7 @@ Recived a Webhook Request
   complete: true,
   rawHeaders: [
     'Host',
-    '45.155.76.232:3535',
+    '',
     'User-Agent',
     'GitHub-Hookshot/12dd831',
     'Content-Length',
